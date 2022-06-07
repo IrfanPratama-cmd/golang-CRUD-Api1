@@ -1,0 +1,11 @@
+basePath: /api/v1
+host: localhost:8081
+info:
+  contact: {}
+  description: API Documentation
+  title: Golang Mini Bootcamp 2022 - By Irfan Pratama
+  version: 1.0.0
+paths: {}
+schemes:
+- http
+swagger: "2.0"

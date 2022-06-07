@@ -1,0 +1,16 @@
+mode: set
+final-project/app/controller/car_delete.go:22.36,28.30 5 0
+final-project/app/controller/car_delete.go:34.2,40.4 3 0
+final-project/app/controller/car_delete.go:28.30,32.3 1 0
+final-project/app/controller/car_get.go:20.33,25.2 4 0
+final-project/app/controller/car_id_get.go:23.35,30.30 5 1
+final-project/app/controller/car_id_get.go:36.2,36.20 1 1
+final-project/app/controller/car_id_get.go:30.30,34.3 1 1
+final-project/app/controller/car_post.go:22.34,27.46 3 0
+final-project/app/controller/car_post.go:33.2,39.4 3 0
+final-project/app/controller/car_post.go:27.46,31.3 1 0
+final-project/app/controller/car_put.go:27.33,36.97 5 1
+final-project/app/controller/car_put.go:42.2,42.46 1 1
+final-project/app/controller/car_put.go:48.2,55.4 4 1
+final-project/app/controller/car_put.go:36.97,40.3 1 1
+final-project/app/controller/car_put.go:42.46,46.3 1 1
